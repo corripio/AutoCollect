@@ -6,4 +6,5 @@
 [![Discord](https://img.shields.io/badge/chat-on_Discord-9cf)](https://discord.gg/cqSVCgY)
 [![Spigot](https://img.shields.io/badge/Spigot-1.14.4-blue)](https://www.spigotmc.org/)
 [![license](https://img.shields.io/badge/license-Apache_2.0-yellow)](https://github.com/corripio/AutoCollect/blob/master/LICENSE)
+# Download
 [![download](https://img.shields.io/badge/download-grey)](#)
